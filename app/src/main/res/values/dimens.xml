@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--png-->
+    <dimen name="artist_list_image">180dp</dimen>
+    <dimen name="song_list_image">60dp</dimen>
+    <dimen name="song_list_icon">30dp</dimen>
+    <dimen name="now_playing_image">300dp</dimen>
+    <dimen name="now_playing_play_icon">40dp</dimen>
+    <dimen name="now_playing_small_icon">20dp</dimen>
+    <!--text-->
+    <dimen name="artist_list_text">16sp</dimen>\
+    <dimen name="song_list_title">18sp</dimen>
+    <dimen name="song_list_smaller">14sp</dimen>
+
+</resources>
